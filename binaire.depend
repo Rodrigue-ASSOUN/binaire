@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1713288083 source:f:\cours c\binaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
+1713288394 source:f:\jryurjr\cours c\binaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
+1713288394 source:c:\users\rodrigue\onedrive\programmation\cours c\binaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
